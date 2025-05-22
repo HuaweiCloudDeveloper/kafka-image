@@ -25,7 +25,7 @@
 
 ![](./images/img001.png)
 
-This project offers pre-configured [**Kafka distributed message middleware**](https://marketplace.huaweicloud.com/intl/hidden/contents/3b8c28c7-295e-493d-82ed-6c0e94a3fc8c) images with DolphinScheduler and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
+This project offers pre-configured [**Kafka distributed message middleware**](https://marketplace.huaweicloud.com/intl/hidden/contents/3b8c28c7-295e-493d-82ed-6c0e94a3fc8c) images with Kafka and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
 
 > **System Requirements:**
 > - CPU: 2GHz or higher  

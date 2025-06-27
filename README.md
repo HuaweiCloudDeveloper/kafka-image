@@ -39,8 +39,8 @@ This project offers pre-configured [**Kafka distributed message middleware**](ht
 
 | Image Version                                                                                                      | Description                                                    | Notes |  
 |--------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|-------|  
-| [kafka3.8_HCE2.0](https://marketplace.huaweicloud.com/intl/hidden/contents/3b8c28c7-295e-493d-82ed-6c0e94a3fc8c) | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  | 
-| [kafka3.8_Ubuntu24.04](https://marketplace.huaweicloud.com/intl/hidden/contents/3b8c28c7-295e-493d-82ed-6c0e94a3fc8c)  | Deployed on Kunpeng servers with Ubuntu24.04 64bit        |  |  
+| [kafka3.8_HCE2.0](https://github.com/HuaweiCloudDeveloper/kafka-image/tree/kafka3.8-kunpeng-v1.0) | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  | 
+| [kafka3.8_Ubuntu24.04](https://github.com/HuaweiCloudDeveloper/kafka-image/tree/kafka3.8-kunpeng-v1.0)  | Deployed on Kunpeng servers with Ubuntu24.04 64bit        |  |  
 
 ## Getting Help
 - Submit an [issue](https://github.com/HuaweiCloudDeveloper/kafka-image/issues)

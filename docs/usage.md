@@ -75,7 +75,7 @@
 ## jps查看服务是否启动成功
 执行 kafka.sh 的命令有可能启动不了 zookeeper 或 kafka 服务，可以二次启动 kafka.sh脚本
 
-## 手工启动 zookeepr 服务和 kafka 命令（如果服务没启动，根据以下命令手工启动）
+## 手工启动 zookeeper 服务和 kafka 命令（如果服务没启动，根据以下命令手工启动）
 zookeeper 服务停止和启动 (路径如有更改 换成本地实际使用路径)
 
 /opt/software/zookeeper-3.5.7/bin/zkServer.sh stop  

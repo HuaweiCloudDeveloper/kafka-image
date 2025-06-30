@@ -39,10 +39,10 @@
 
 ## 镜像说明
 
-| 镜像规格                                                                                                                                 | 特性说明                                           | 备注 |
-|--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------| --- |
-| [kafka3.8_EulerOS2.0](https://marketplace.huaweicloud.com/hidden/contents/92e0c0d9-6a15-41a3-b71f-caf3a8de0d81#productid=OFFI1129684662074359808) | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
-| [kafka3.8_Ubuntu24](https://marketplace.huaweicloud.com/hidden/contents/92e0c0d9-6a15-41a3-b71f-caf3a8de0d81#productid=OFFI1129684602369187840) | 基于 鲲鹏服务器 + Ubuntu24.04 64bit 安装部署              |  |
+| 镜像规格                                                                                                   | 特性说明                                           | 备注 |
+|--------------------------------------------------------------------------------------------------------|------------------------------------------------| --- |
+| [Kafka3.8-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/kafka-image/tree/Kafka3.8-kunpeng-v1.0)      | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| [Kafka3.8-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/kafka-image/tree/Kafka3.8-kunpeng-v1.0) | 基于 鲲鹏服务器 + Ubuntu24.04 64bit 安装部署              |  |
 
 ## 获取帮助
 - 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/kafka-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系

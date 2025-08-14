@@ -27,7 +27,7 @@
 ![](./images/img001.png)
 
 
-本项目提供的开源镜像商品 [**Kafka分布式消息中间件**](https://marketplace.huaweicloud.com/hidden/contents/92e0c0d9-6a15-41a3-b71f-caf3a8de0d81#productid=OFFI1129684662074359808)，已预先安装 Kafka 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**Kafka分布式消息中间件**](https://marketplace.huaweicloud.com/contents/92e0c0d9-6a15-41a3-b71f-caf3a8de0d81#productid=OFFI1129684667677949952)，已预先安装 Kafka 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 > **系统要求如下：**
 > - CPU: 2GHz 或更高

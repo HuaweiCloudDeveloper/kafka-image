@@ -2,7 +2,7 @@
 
 # 一、商品链接
 
-[Kafka分布式消息中间件](https://marketplace.huaweicloud.com/hidden/contents/92e0c0d9-6a15-41a3-b71f-caf3a8de0d81#productid=OFFI1129684662074359808)
+[Kafka分布式消息中间件](https://marketplace.huaweicloud.com/contents/92e0c0d9-6a15-41a3-b71f-caf3a8de0d81#productid=OFFI1129684667677949952)
 
 # 二、商品说明
 
